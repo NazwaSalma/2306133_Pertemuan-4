@@ -19,7 +19,7 @@ Aplikasi ini menampilkan:
 3. Menghitung total harga secara otomatis
 4. Tampilan UI sederhana menggunakan Flutter
    
-🧠 Cara Kerja
+Cara Kerja
 Variabel qyt digunakan untuk menyimpan jumlah produk, Variabel price menyimpan harga satuan, dan Variabel total dihitung dengan rumus: total = price * qyt
 
 Setiap tombol ditekan:
