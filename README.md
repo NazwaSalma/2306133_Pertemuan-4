@@ -23,7 +23,7 @@ Aplikasi ini menampilkan:
 Variabel qyt digunakan untuk menyimpan jumlah produk, Variabel price menyimpan harga satuan, dan Variabel total dihitung dengan rumus: total = price * qyt
 
 Setiap tombol ditekan:
-Tombol ➕ menambah jumlah
-Tombol ➖ mengurangi jumlah (tidak bisa minus)
-UI diperbarui menggunakan setState()
+Tombol ➕ menambah jumlah, 
+Tombol ➖ mengurangi jumlah (tidak bisa minus),
+dan UI diperbarui menggunakan setState()
 
